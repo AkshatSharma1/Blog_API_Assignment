@@ -1,5 +1,5 @@
 # Clone the repository
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/AkshatSharma1/Blog_API_Assignment.git
 
 # Navigate to the project directory
 cd project_folder
