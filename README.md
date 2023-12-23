@@ -22,3 +22,6 @@ userId: 65857a443492faf3df739101
 #Sample postID(present in database)
 postId: 6585bf579a0f6e38593e7dcc
 
+#All Blog url
+https://35.154.182.240:5000/api/blog/
+
